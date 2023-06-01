@@ -1,1 +1,0 @@
-SELECT * FROM db_mercado.tb_cliente;
